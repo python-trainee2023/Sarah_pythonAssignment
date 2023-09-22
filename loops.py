@@ -6,7 +6,7 @@
 #         evens.append(i)
 # print(evens)
 
-numbers=[1,1.2,2,2.3,4,5,6]
+# numbers=[1,1.2,2,2.3,4,5,6]
 
 # integer = [x for x in numbers if isinstance(x, int)]
 # integer=[x for x in numbers if type(x)==int]
@@ -15,4 +15,16 @@ numbers=[1,1.2,2,2.3,4,5,6]
 
 numbers=input('Enter numbers and seperate by , : ')
 n_list = numbers.split(',')
-print("Maximum number in ",n_list, " is ", max(n_list))
+
+# print("Maximum number in ",n_list, " is ", max(n_list))
+integers = []
+strings = []
+
+for item in n_list:
+    if item.isdigit():
+        integers.append(int(item))
+    else:
+        strings.append(item)
+
+print("Strings:", strings)
+print("Integers:", integers)
