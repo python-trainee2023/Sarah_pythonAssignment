@@ -1,0 +1,5 @@
+Aplha=a
+Beta=b
+Cupcake=c
+Donut=d
+Ecliars=e
