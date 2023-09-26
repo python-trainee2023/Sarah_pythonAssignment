@@ -1,0 +1,10 @@
+Name        Gender  Score
+sarah       female  43
+sonal       female  65
+priya       female  54
+pema        female  43
+bijayata    female  43
+garisha     female  12
+rashila     female  43
+rejan       male    23
+anusha      female  12
