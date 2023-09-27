@@ -1,0 +1,4 @@
+Book Series             Author                  Availability
+Harry Potter 1           J.K.Rolling             Yes
+Harry Potter 2           J.K.Rolling             Yes
+Song of Ice and Fire    George R.R. Martin      No

@@ -1,0 +1,6 @@
+file
+mile
+apple
+ball
+cat
+dog
